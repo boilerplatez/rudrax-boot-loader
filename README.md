@@ -2,14 +2,14 @@
 
 
 ## Setup
-- Install  XAMPP [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/xampp/MAC.md)
-- Setup PHP Composer [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/php/ENV.md)
+- Install  XAMPP [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/xampp/MAC.md?0)
+- Setup PHP Composer [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/php/ENV.md?0)
 - [Download](https://github.com/boilerplatez/rudrax-boot-loader/archive/master.zip) project
     Or you can optionally setup whole project manually following these setups
-    - Create RudraX Project [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/php/rudrax.md)
-    - Setup Node Environment [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/node/ENV.md)
-    - Setup bootloader Project [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/node/bootloader.md)
-- Point your dummy/virtual domain to your project directory [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/xampp/domain.md)
+    - Create RudraX Project [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/php/rudrax.md?0)
+    - Setup Node Environment [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/node/ENV.md?0)
+    - Setup bootloader Project [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/node/bootloader.md?0)
+- Point your dummy/virtual domain to your project directory [instructions](http://docs.spamjs.org/boilerplatez/docs/master/markdown/xampp/domain.md?0)
 
 
 
