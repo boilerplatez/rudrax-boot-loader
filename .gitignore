@@ -10,3 +10,5 @@ config
 build
 src/external/components
 composer.phar
+node_modules
+dist

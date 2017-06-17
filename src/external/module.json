@@ -1,0 +1,9 @@
+{
+  "name": "rudrax-boot-loader/external",
+  "rudrax-boot-loader/set1": {
+    "js": [],
+    "on": [
+      "external_dependcies_list"
+    ]
+  }
+}
